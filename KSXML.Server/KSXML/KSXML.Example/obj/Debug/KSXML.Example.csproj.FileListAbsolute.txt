@@ -1,0 +1,7 @@
+D:\Personal\Development\KSXML\KSXML.Example\bin\KSXML.Example.dll
+D:\Personal\Development\KSXML\KSXML.Example\bin\KSXML.Example.pdb
+D:\Personal\Development\KSXML\KSXML.Example\bin\KSXML.dll
+D:\Personal\Development\KSXML\KSXML.Example\bin\KSXML.pdb
+D:\Personal\Development\KSXML\KSXML.Example\obj\Debug\ResolveAssemblyReference.cache
+D:\Personal\Development\KSXML\KSXML.Example\obj\Debug\KSXML.Example.dll
+D:\Personal\Development\KSXML\KSXML.Example\obj\Debug\KSXML.Example.pdb

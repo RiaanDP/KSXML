@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\Personal\Deploy" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="D:\" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="PlayListService.asmx" publishTime="07/11/2013 20:29:43" />
+    <file relUrl="Web.config" publishTime="07/11/2013 20:30:18" />
+    <file relUrl="bin/KSXML.pdb" publishTime="07/11/2013 20:29:57" />
+    <file relUrl="bin/KSXML.dll" publishTime="07/11/2013 20:29:57" />
+    <file relUrl="bin/KSXML.Example.dll" publishTime="07/11/2013 20:29:58" />
+    <file relUrl="bin/KSXML.Example.pdb" publishTime="07/11/2013 20:29:58" />
+  </publishProfile>
+</publishData>
