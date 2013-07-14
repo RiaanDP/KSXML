@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string name="app_name">MyPlayList</string>
-    <string name="action_settings">Settings</string>
-    <string name="get_track_info">Get Track Info</string>
-    <string name="get_all_track_names">Get All Track Names</string>
-
-</resources>
